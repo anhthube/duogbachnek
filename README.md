@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100vw" src="./img/duogbachdev.gif">
+<img alt="banner" style="width:100vw" src="[./img/duogbachdev.gif](https://github.com/duogbachdev/duogbachdev/blob/main/img/duogbachdev.gif)">
 
 ## 🌸 About me
 
